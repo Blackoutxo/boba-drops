@@ -1,0 +1,11 @@
+
+body {
+    background-color: cyan;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 15px;
+}
